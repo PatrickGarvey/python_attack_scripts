@@ -119,7 +119,7 @@ def main():
 
     ### TODO: GET IP ADDRESS AND PORTS FROM ARGPARSE
     source_ip = '1.2.3.4'
-    dest_ip = '10.10.2.0'
+    dest_ip = '10.11.1.0'
     source_port = 1234
     dest_port = 22
 
